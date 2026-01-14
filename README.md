@@ -70,8 +70,8 @@ Older or unrelated work has been intentionally archived to keep this profile foc
 
 ## Connect
 
-- LinkedIn: (add your LinkedIn link here)
-- Email: (optional)
+- LinkedIn: www.linkedin.com/in/manjunath-sb
+- Email: sb.manjunath29@gmail.com
 
 ---
 
