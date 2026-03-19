@@ -1,78 +1,48 @@
 # Manjunath S B
 
-Data Analyst | Data Science & AI Automation Enthusiast  
-Python | SQL | Power BI | Pandas | AI Agents
+Applied AI Engineer | AI Backend Engineer | LLM Systems
 
----
+## Summary
 
-## About Me
+Applied AI Engineer with experience building production-grade AI systems using multi-agent architectures, LLM orchestration, and backend services.
 
-I am a data professional with experience in analytics and a strong interest in data science and AI-driven automation.  
-My work focuses on extracting insights from data, building analytical workflows, and experimenting with agent-based systems for decision-making.
+Focused on designing scalable and reliable systems with structured outputs, deterministic behaviour, and backend-driven orchestration.
 
-I am currently building a focused portfolio in:
-- Data analysis and visualisation
-- Applied data science projects
-- AI agents and automation experiments
+## Core Expertise
 
----
+- Multi-Agent AI Systems (Orchestrator–Worker–Aggregator)
+- LLM Systems (AWS Bedrock, Prompt Engineering, Structured Outputs)
+- Backend AI (FastAPI, REST APIs, JSON Schema)
+- Cloud (AWS Bedrock, ECR, CDK, CloudWatch)
+- Data Systems (SQL, ETL, Validation Pipelines)
 
-## Core Skills
+## Key Projects
 
-- Data Analysis: Python, Pandas, NumPy, SQL  
-- Visualisation & BI: Power BI, Matplotlib  
-- Data Science: Exploratory analysis, metrics, modelling basics  
-- AI & Automation: Agent-based systems, experimentation with local agents  
-- Tools: Jupyter Notebook, GitHub
+### Agentic AI Platform (Anica)
 
----
+- Built end-to-end AI system: Bedrock → FastAPI → multi-agent workflow → aggregation
+- Designed parallel agent execution with deterministic scoring
+- Implemented structured JSON pipelines for reliable outputs
+- Containerised deployment using AWS CDK and ECR
 
-## Featured Projects
+### Options Decision AI System
 
-### PowerBI-IPL-2025-Best-Batsman  
-Data analysis and Power BI dashboard to evaluate the best IPL batsman of the 2025 season using performance metrics and match context.  
-**Skills:** Data cleaning, metrics design, Power BI dashboards
+- Hybrid AI system combining LLM reasoning with deterministic logic
+- Modular pipeline for structured insight generation and validation
 
-### T20-WC-batting-goat  
-Statistical analysis using Python and Jupyter notebooks to compare batting performance in T20 World Cup tournaments.  
-**Skills:** Pandas, exploratory data analysis, cricket analytics
+### SAP UI5 Analytics System
 
-### cricket-agent-local  
-Experimental AI project exploring agent-based approaches in a cricket analytics context.  
-**Skills:** Python, AI automation concepts, agent logic
+- Built analytics module with API integration and frontend computation
+- Implemented performance tracking and drill-down analytics
 
-### options-agent-local  
-Local AI automation experiment focused on decision logic and agent behaviour.  
-**Skills:** Python, automation, analytical reasoning
+## Architecture Focus
 
----
+- Structured AI outputs (JSON contracts)
+- Deterministic decision systems
+- Backend-driven AI orchestration
+- Scalable multi-agent workflows
 
-## What I Am Focusing On Now
+## Links
 
-- Building end-to-end, well-documented data projects  
-- Improving analytical storytelling and business interpretation  
-- Strengthening AI agent experimentation with clear problem statements  
-- Preparing for data analyst / data science / analytics-driven roles
-
----
-
-## How to Read My Repositories
-
-Each active repository is maintained with:
-- Clear problem statement  
-- Clean notebooks or scripts  
-- Reproducible steps  
-- Emphasis on insights, not just code  
-
-Older or unrelated work has been intentionally archived to keep this profile focused.
-
----
-
-## Connect
-
-- LinkedIn: www.linkedin.com/in/manjunath-sb
-- Email: sb.manjunath29@gmail.com
-
----
-
-Thank you for reviewing my work.
+- LinkedIn: https://linkedin.com/in/manjunath-sb
+- GitHub: https://github.com/manjunath-sb
