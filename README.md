@@ -35,6 +35,20 @@ Focused on designing scalable and reliable systems with structured outputs, dete
 - Built analytics module with API integration and frontend computation
 - Implemented performance tracking and drill-down analytics
 
+## System Design
+
+- Dual architecture:
+  - Agent Builder (creation layer)
+  - Agent Runtime (execution layer)
+
+- Execution flow:
+  User → Lambda → Agent Core → Aggregation → Response
+
+- Key design decisions:
+  - Parallel agent execution
+  - Deterministic scoring (not pure LLM)
+  - Strict JSON contracts
+
 ## Architecture Focus
 
 - Structured AI outputs (JSON contracts)
