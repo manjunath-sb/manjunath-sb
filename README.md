@@ -18,7 +18,7 @@ Focused on designing scalable and reliable systems with structured outputs, dete
 
 ## Key Projects
 
-### Agentic AI Platform (Anica)
+### Agentic AI Platform
 
 - Built end-to-end AI system: Bedrock → FastAPI → multi-agent workflow → aggregation
 - Designed parallel agent execution with deterministic scoring
